@@ -1,0 +1,20 @@
+#footer {
+    background: transparent;
+}
+
+#page-header {
+    background-color: rgb(0 0 0 / 0%);
+}
+
+#page-header:not(.not-top-img):before {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0 0 0 / 0%);
+    content: '';
+}
+
+#pagination .page-number.current {
+    background: #49b1f5;
+    color: var(--white);
+}
