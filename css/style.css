@@ -19,6 +19,6 @@
     color: var(--white);
 }
 
-#body-wrap {
-    background-image: url(/source/img/bg3.jpg);
-}
+#web_bg {
+    background-color: darkorchid;
+  }
