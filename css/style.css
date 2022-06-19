@@ -18,3 +18,7 @@
     background: #49b1f5;
     color: var(--white);
 }
+
+#body-wrap {
+    background-image: url(/source/img/bg3.jpg);
+}
